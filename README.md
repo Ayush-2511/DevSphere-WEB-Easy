@@ -39,11 +39,8 @@ The `processCartData` function should return an object with two properties:
 
 ## How to Run
 
-1.  Navigate to the `easy` directory:
-    ```bash
-    cd easy
-    ```
 2.  Run the tests:
+   
     ```bash
     node test.js
     ```
